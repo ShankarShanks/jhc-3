@@ -8,3 +8,4 @@ letz add something
 im entering this line from local.
 adding this from shanks/task1
 adding this from shanks/task2
+okay i deleted both task1 nd task2 from remote nd in local too.
